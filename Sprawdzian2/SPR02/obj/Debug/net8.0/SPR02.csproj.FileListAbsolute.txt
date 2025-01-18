@@ -1,0 +1,15 @@
+/Users/maratiskhakov/csharp/SPR02/SPR02/bin/Debug/net8.0/SPR02
+/Users/maratiskhakov/csharp/SPR02/SPR02/bin/Debug/net8.0/SPR02.deps.json
+/Users/maratiskhakov/csharp/SPR02/SPR02/bin/Debug/net8.0/SPR02.runtimeconfig.json
+/Users/maratiskhakov/csharp/SPR02/SPR02/bin/Debug/net8.0/SPR02.dll
+/Users/maratiskhakov/csharp/SPR02/SPR02/bin/Debug/net8.0/SPR02.pdb
+/Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/SPR02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/SPR02.AssemblyInfoInputs.cache
+/Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/SPR02.AssemblyInfo.cs
+/Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/SPR02.csproj.CoreCompileInputs.cache
+/Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/SPR02.dll
+/Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/refint/SPR02.dll
+/Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/SPR02.pdb
+/Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/SPR02.genruntimeconfig.cache
+/Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/ref/SPR02.dll
+/Users/maratiskhakov/csharp/SPR02/SPR02/obj/Debug/net8.0/SPR02.sourcelink.json
